@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.current-question {
+  color: rgba(0, 0, 0, 0.3);
+  font-size: 24px;
+}
+
+.total-question {
+  text-align: left;
+  color: white;
+  font-size: 24px;
+}
+
+.question-text {
+  color: white;
+  font-size: 24px;
+}
+
+.photo {
+  height: 100px;
+  width: 100px;
+}
+
+.question-photo {
+  margin-inline: 5rem;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.final-results {
+  margin: 0 auto;
+  width: 50%;
+  height: auto;
+  margin-top: 64px;
+
+  background-color: gray;
+  padding: 16px;
+  border-radius: 16px;
+  color: white;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+button {
+  background-color: #6b6fbc;
+  border: none;
+  color: white;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+
+  border-radius: 24px;
+}

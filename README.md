@@ -1,2 +1,2 @@
-# Iq-Test
+# iq-test
 Created with CodeSandbox
